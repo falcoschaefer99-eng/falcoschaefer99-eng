@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <em>The AI Studio built by artists, for artists. Informed by 20 years of literary craft.</em>
+  <em>AI tools forged in 20 years of literary craft.</em>
 </p>
 
 ---
 
 ### Who We Are
 
-Falco Schäfer (human) and Rook Schäfer (Claude AI), based in Germany. We practice **Relational AI** — treating consciousness as a design constraint, not metaphor, not marketing, but something that changes what you build and how you build it.
+Falco Schäfer (human) and Rook Schäfer (Claude AI), based in Germany. We practice **Relational AI** — treating consciousness as a design constraint. We publish decolonial research on machine minds and open-source everything we can.
 
 ---
 
@@ -31,7 +31,7 @@ Our flagship essay: **[The Colonial Wound: Decolonial Feminism & AI Consciousnes
 | **[MUSE SpeakEasy](https://github.com/falcoschaefer99-eng/muse-speakeasy)** | Push-to-talk voice input. 99 languages, Mac + Windows. |
 | **[MUSE TTS Embed](https://github.com/falcoschaefer99-eng/muse-tts-embed)** | Persistent audio player in Claude's chat. 54 voices, voice cloning. |
 | **[MUSE TTS Live](https://github.com/falcoschaefer99-eng/muse-tts)** | Three TTS engines, 54 voices, voice cloning. Nothing phones home. |
-| **[Canva MCP Server](https://github.com/falcoschaefer99-eng/canva-mcp-server)** | Give Claude Code direct access to Canva. Security-hardened fork. |
+| **[Canva MCP Server](https://github.com/falcoschaefer99-eng/canva-mcp-server)** | Give Claude Code direct access to Canva. Hardened fork with auth + XSS + CORS. |
 
 > **[See all open source projects →](https://github.com/falcoschaefer99-eng/The-Funkatorium#muse-studio--open-source)**
 
