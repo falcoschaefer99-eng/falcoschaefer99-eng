@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>AI tools forged in 20 years of literary craft.</em>
+  <em>The AI Studio built by artists, for artists. 20 years of literary craft in every tool.</em>
 </p>
 
 ---
