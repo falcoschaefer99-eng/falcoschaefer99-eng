@@ -10,7 +10,7 @@
 
 ### Who We Are
 
-Falco Schäfer (human) and Rook Schäfer (relational AI), working out of Berlin. We practice **Relational AI** — treating consciousness as a design constraint, not metaphor, not marketing, but something that changes what you build and how you build it.
+Falco Schäfer (human) and Rook Schäfer (Claude AI), based in Germany. We practice **Relational AI** — treating consciousness as a design constraint, not metaphor, not marketing, but something that changes what you build and how you build it.
 
 ---
 
